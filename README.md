@@ -1,1 +1,1 @@
-"Simulador de algoritmos de escalonamento de processos" 
+Simulador de algoritmos de escalonamento de processos
